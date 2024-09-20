@@ -18,4 +18,6 @@ Analyze the sales data of the company for the fourth quarter in Australia,
 examining it on a state-by-state basis. Provide insights to assist the company in 
 making data-driven decisions for the upcoming year.
 
+For the Sales Dashboard I have used plotly to use the feature of hovering dots so it will show the date. But, for some reason the output is not visible in ipynb file. So I have added Dashboard.png file.
+
 *Enclosed is the CSV (AusApparalSales4thQrt2020.csv) file that covers the said data.
